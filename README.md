@@ -6,9 +6,17 @@ Image restoration (denosing, super-resolution, etc) and style transfer with non-
 
 A simple implementation of the sparse representation based methods.
 
+![Gray Image Denosing Example](data/Gray Denoising Result.png)
+
 # Super-resolution
 
 Two methods are tried: sparse representation/anchor neighborhood regression with jointly learned dictionary .
+
+# Inpainting
+Currently, only sparse coding base inpainting method is implemented, which can restore images patially corrupted by random noise or thin-structrures(e.g., text).
+
+
+It is also intended to try exempler based inpainting method in future. 
 
 # style transfer
 

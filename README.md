@@ -14,9 +14,14 @@ A simple implementation of the sparse representation based methods.
 
 Two methods are tried: sparse representation/anchor neighborhood regression with jointly learned dictionary .
 
+![Super-Resolution Example](https://github.com/galad-loth/ImageRecovTrans/blob/master/data/Super-resolution%20result.png)
+
 # Inpainting
 Currently, only sparse coding base inpainting method is implemented, which can restore images patially corrupted by random noise or thin-structrures(e.g., text).
 
+![Random-Occlusion Inpainting Example](https://github.com/galad-loth/ImageRecovTrans/blob/master/data/Inpainting%20Result-Random%20Occlusion%20.png)
+
+![Text Removal Example](https://github.com/galad-loth/ImageRecovTrans/blob/master/data/Inpainting%20Result-Text%20Mask.png)
 
 It is also intended to try exempler based inpainting method in future. 
 

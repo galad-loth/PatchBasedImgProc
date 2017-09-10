@@ -6,7 +6,9 @@ Image restoration (denosing, super-resolution, etc) and style transfer with non-
 
 A simple implementation of the sparse representation based methods.
 
-![Gray Image Denosing Example](data/Gray Denoising Result.png)
+![Gray Image Denosing Example](https://github.com/galad-loth/ImageRecovTrans/blob/master/data/Gray%20Denoising%20Result.png)
+
+![Color Image Denosing Example](https://github.com/galad-loth/ImageRecovTrans/blob/master/data/Color%20Denoising%20Result.png)
 
 # Super-resolution
 

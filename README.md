@@ -1,6 +1,6 @@
 # ImageRecovTrans
 
-Image restoration (denosing, super-resolution, inpianting) and style transfer with non-CNN methods. The purpose is for my self-education of those fileds.
+Image restoration (denosing, super-resolution, etc) and style transfer with non-CNN methods. The purpose is for my self-education of those fileds.
 
 # Denoising
 
@@ -9,10 +9,6 @@ A simple implementation of the sparse representation based methods.
 # Super-resolution
 
 Two methods are tried: sparse representation/anchor neighborhood regression with jointly learned dictionary .
-
-# inpainting
-
-I'm trying inpainting methods in an energy minimization fashion, which combine exempler-based and geometric based methods in an unified framework. 
 
 # style transfer
 

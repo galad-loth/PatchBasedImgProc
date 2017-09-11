@@ -1,6 +1,6 @@
 # ImageRecovTrans
 
-Image restoration (denosing, super-resolution, etc) and style transfer with non-CNN methods. The purpose is for my self-education of those fileds.
+Image restoration (denosing, super-resolution, inpainting...) and style transfer with non-CNN methods. The purpose is for my self-education of those fileds.
 
 # Denoising
 

@@ -1,6 +1,6 @@
-# ImageRecovTrans
+# PatchBasedImgProc
 
-Image restoration (denosing, super-resolution, inpainting...) and style transfer with non-CNN methods. The purpose is for my self-education of those fileds.
+patch based image processing, include denosing, super-resolution, inpainting and style transfer, etc. The purpose is for my self-education of those fileds.
 
 # Denoising
 
@@ -39,10 +39,12 @@ It is intended to implement the style-transfer methods proposed recently by Mich
 
 4. Timofte R, De Smet V, Van Gool L. Anchored neighborhood regression for fast example-based super-resolution[C]//Proceedings of the IEEE International Conference on Computer Vision. 2013: 1920-1927.
 
-5. Bugeau A, Bertalmío M, Caselles V, et al. A comprehensive framework for image inpainting[J]. IEEE Transactions on Image Processing, 2010, 19(10): 2634-2645.
+5. Barnes C, Shechtman E, Finkelstein A, et al. PatchMatch: A randomized correspondence algorithm for structural image editing[J]. ACM Trans. Graph., 2009, 28(3): 24:1-24:11.
 
-6. Arias P, Facciolo G, Caselles V, et al. A variational framework for exemplar-based image inpainting[J]. International journal of computer vision, 2011, 93(3): 319-347.
+6. Korman S, Avidan S. Coherency sensitive hashing[C]//Computer Vision (ICCV), 2011 IEEE International Conference on. IEEE, 2011: 1607-1614.
 
-7. Liu Y, Caselles V. Exemplar-based image inpainting using multiscale graph cuts[J]. IEEE transactions on image processing, 2013, 22(5): 1699-1711.
+7. Arias P, Facciolo G, Caselles V, et al. A variational framework for exemplar-based image inpainting[J]. International journal of computer vision, 2011, 93(3): 319-347.
 
-8. Elad M, Milanfar P. Style Transfer Via Texture Synthesis[J]. IEEE Transactions on Image Processing, 2017, 26(5): 2338-2351.
+8. Liu Y, Caselles V. Exemplar-based image inpainting using multiscale graph cuts[J]. IEEE transactions on image processing, 2013, 22(5): 1699-1711.
+
+9. Elad M, Milanfar P. Style Transfer Via Texture Synthesis[J]. IEEE Transactions on Image Processing, 2017, 26(5): 2338-2351.
